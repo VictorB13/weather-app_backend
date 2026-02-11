@@ -10,9 +10,9 @@ It provides a REST API to fetch current weather for the following cities: New Yo
 - Docker (if running containerized)
 - OpenWeatherMap API key (free signup at - https://openweathermap.org/api)
 
-## Local installation (Withouth Docker):
+## Local installation (Without Docker):
 ``` bash
-git clone <repo_url>
+git clone https://github.com/VictorB13/weather-app_backend.git>
 cd backend
 python -m venv venv
 source venv/bin/activate
