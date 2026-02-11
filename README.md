@@ -12,7 +12,6 @@ It provides a REST API to fetch current weather for the following cities: New Yo
 
 ## Local installation (Without Docker):
 ``` bash
-cd backend
 git clone https://github.com/VictorB13/weather-app_backend.git
 python3 -m venv venv
 source venv/bin/activate
